@@ -232,6 +232,12 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 `Arrays` `Strings` `Hashing` `Trees` `Graphs` `Dynamic Programming` `Greedy` `Binary Search` `Sliding Window` `Recursion` `Backtracking` `Heaps` `Tries` `Segment Trees`
 
+## 🧩 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sit22cs124?theme=dark&font=baloo&ext=contest" alt="LeetCode Statistics" />
+</p>
+
 ---
 
 # 📊 GitHub Statistics
