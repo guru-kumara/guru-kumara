@@ -20,7 +20,6 @@ I'm a Software Engineer passionate about **building scalable applications, solvi
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge)
 
 Strong foundation in **Data Structures & Algorithms, Problem Solving, Object-Oriented Programming, and Competitive Programming**.
@@ -69,12 +68,10 @@ Strong foundation in **Data Structures & Algorithms, Problem Solving, Object-Ori
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 * SQL
 * MySQL
-* PostgreSQL
 * MongoDB
 * Database Design
 * Query Optimization
@@ -161,7 +158,7 @@ A full-stack enterprise platform designed to manage campus operations, users, co
 
 A financial technology platform demonstrating event-driven architecture, transactional processing, messaging, caching, and secure backend services.
 
-**Focus:** Java • Spring Boot • Kafka • PostgreSQL • Redis • Microservices
+**Focus:** Java • Spring Boot • Kafka • MySQL • Redis • Microservices
 
 ---
 
@@ -233,7 +230,7 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 **Core areas:**
 
-`Arrays` `Strings` `Hashing` `Trees` `Graphs` `Dynamic Programming` `Greedy` `Binary Search` `Sliding Window` `Recursion` `Backtracking` `Heaps` `Tries` `Segment Trees` `Graphs`
+`Arrays` `Strings` `Hashing` `Trees` `Graphs` `Dynamic Programming` `Greedy` `Binary Search` `Sliding Window` `Recursion` `Backtracking` `Heaps` `Tries` `Segment Trees`
 
 ---
 
